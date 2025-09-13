@@ -1,5 +1,5 @@
 //ProjectStructure
-import ReactConcepts from "../../pages/ReactConcepts"
+//import ReactConcepts from "../../pages/ReactConcepts"
 import ConceptSection from "../ConceptSection"
 
 export default function ProjectStructure() {
