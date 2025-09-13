@@ -3,8 +3,8 @@ export default function Home() {
     <section>
       <h2>Azul Karel Montalvo Chávez</h2>
       <p>
-        Aquí encontrarás información sobre mi experiencia profesional, conceptos
-        de TypeScript y React generales de la materia de Desarrollo Frontend para web
+        Aquí encontrarás información sobre mi experiencia profesional y conceptos generales 
+        de React de la materia de Desarrollo Frontend para web.
       </p>
     </section>
   );
