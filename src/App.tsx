@@ -42,6 +42,7 @@ import ReactConcepts from './pages/ReactConcepts';
 import Experience from './pages/Experience';
 import Home from './pages/Home';
 import ReactConceptsExamples from './pages/ReactConceptsExamples';
+import Contact from './pages/Contact';
 
 function App() {
   return (
@@ -50,7 +51,7 @@ function App() {
       <main className="main-content">
         <Routes>
           <Route path="/" element={<Home />} />
-          {/* <Route path="/typescript" element={<TypescriptConcepts />} /> */}
+          <Route path="/contact" element={<Contact />} />
           <Route path="/reactConcepts" element={<ReactConcepts />} />
           <Route path="/experience" element={<Experience />} />
           <Route path="/reactConceptsExamples" element={<ReactConceptsExamples />} />
